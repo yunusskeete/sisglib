@@ -1,12 +1,13 @@
 # sisglib
-Spatial Intelligence Scene Generation Library
 
-**Spatial Intelligence Scene Generation Library**
+**Spatial Intelligence Scene Generation Library:**  
 A unified toolkit for developing, evaluating, and deploying 3D scene generation algorithms - built for research and production.
 
-**For researchers:** The *OpenAI Gym* of 3D scene generation - a common framework for implementing, testing, and benchmarking novel approaches.
+**For researchers:**  
+The *OpenAI Gym* of 3D scene generation - a common framework for implementing, testing, and benchmarking novel approaches.
 
-**For engineers:** The *Hugging Face Transformers* of 3D scene generation - a modular foundation for building, integrating, and deploying systems in real-world pipelines.
+**For engineers:**  
+The *Hugging Face Transformers* of 3D scene generation - a modular foundation for building, integrating, and deploying systems in real-world pipelines.
 
 ## Quickstart:
 - Playable and editable 3D scenes for Blender, Unity, Unreal, etc. with a simple, modular API.
@@ -83,7 +84,7 @@ if __name__ == "__main__":
 ```
 
 ## Release:
-Coming soon at [3D-Intelligence/sisglib](https://github.com/3D-Intelligence/sisglib)
+Coming soon at [3D-Intelligence/sisglib](https://github.com/3D-Intelligence/sisglib)!
 
 ## Contact:
 [Me!](https://github.com/yunusskeete)
